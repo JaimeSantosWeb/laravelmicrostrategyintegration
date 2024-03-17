@@ -1,5 +1,5 @@
 {
-    "name": "jaimesantosweb/laravelmicrostrategyintegration ",
+    "name": "jaimesantosweb/laravel-microstrategy-integration",
     "type": "library",
     "description": "An API that connect to MicrostrategyLibrary API to get report results",
     "keywords": [ "laravel", "framework","MicroStrategy", "msLibrary","Microstrategy API","API" ],
