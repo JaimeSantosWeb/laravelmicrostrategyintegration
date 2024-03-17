@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Http",
+    "\\app\\Http\\Controllers",
+    "\\app\\Http\\Controllers\\prompts",
+    "\\app\\LaravelMicrostrategyIntegration",
+    "\\app\\LaravelMicrostrategyIntegration\\Controllers",
+    "\\app\\LaravelMicrostrategyIntegration\\Facades",
+    "\\app\\LaravelMicrostrategyIntegration\\Providers",
+    "\\app\\Providers",
+    "\\config"
+  ],
+  "PreviewInSolutionExplorer": false
+}

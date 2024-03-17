@@ -1,0 +1,31 @@
+{
+    "prompts": [
+        {
+            "id": "B5EFF7FF45D4D36B6977A49990374163",
+            "key": "B5EFF7FF45D4D36B6977A49990374163@0@10",
+            "name": "Ingresso - Data e Hora Valor",
+            "title": "Ingresso - Data e Hora Valor",
+            "type": "VALUE",
+            "required": false,
+            "closed": false,
+            "answers": "2020-05-31",
+            "defaultAnswer": {
+            },
+            "dataType": "DATE"
+        },
+        {
+            "id": "965BFCF541D8C301ED3A0FB34999961D",
+            "key": "965BFCF541D8C301ED3A0FB34999961D@0@10",
+            "name": "Pedido - TDL Valor",
+            "title": "Pedido - TDL Valor",
+            "type": "VALUE",
+            "required": false,
+            "closed": false,
+            "answers": 40608385,
+
+            "defaultAnswer": {
+            },
+            "dataType": "NUMERIC"
+        }
+    ]
+}
